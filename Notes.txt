@@ -1,0 +1,5 @@
+Git separates commit author and push authentication.
+What matters for pushing is which account authenticates with GitHub. ie joshcode30
+Edit user.name and user.email to change author for the push.
+Previous commits were dont by josh-f3 hence they were the author.
+After change, the author for this file was joshcode30.
